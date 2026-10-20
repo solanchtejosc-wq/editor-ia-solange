@@ -2,6 +2,8 @@
 
 **Solanch | Comunidad MINED/FWP**
 
+[**Abrir la landing interactiva y marcar mi avance**](https://solanch-mined-fwp.netlify.app/)
+
 [Descargar el playbook en PDF](https://github.com/solanchtejosc-wq/editor-ia-solange/raw/refs/heads/main/docs/Playbook-Solanch-Comunidad-MINED-FWP.pdf) · [Descargar todos los archivos del editor (ZIP)](https://github.com/solanchtejosc-wq/editor-ia-solange/archive/refs/heads/main.zip)
 
 Sigue los pasos en orden y marca cada uno al terminarlo. Solo instalas dos o tres programas tú; el resto lo instala la IA. No necesitas saber programar.

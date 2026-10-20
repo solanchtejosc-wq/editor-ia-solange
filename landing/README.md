@@ -1,5 +1,9 @@
 # Landing de Solanch | Comunidad MINED/FWP
 
+Landing publicada: https://solanch-mined-fwp.netlify.app/
+
+Proyecto de Netlify: `solanch-mined-fwp` (`e483571d-78ec-4650-9af5-f1d1974f408e`).
+
 Página estática en `dist/`. No requiere compilación ni instalar las dependencias del editor para publicarla.
 
 ## Publicación gratuita con Netlify
