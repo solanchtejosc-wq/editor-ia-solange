@@ -12,7 +12,7 @@ La marca vive en **`proyecto/marca.json`** y se aplica sola a cada video nuevo
 
 Si `configurada` es `false`, pregunta en un solo mensaje:
 
-1. Nombre de la marca y usuario de redes (por ejemplo, `Solange | Comunidad MINED/FWP`).
+1. Nombre de la marca y usuario de redes (por ejemplo, `Solanch | Comunidad MINED/FWP`).
 2. Color principal (el de resaltado y fondo de los títulos). Acepta un nombre ("verde
    esmeralda"), un código (`#00E676`) o una captura del logo: si te da una imagen, extrae el
    color y confírmalo.

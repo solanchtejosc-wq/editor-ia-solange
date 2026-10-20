@@ -2,7 +2,7 @@
   "name": "editor-ia-solange",
   "version": "1.0.0",
   "private": true,
-  "description": "Editor de video con IA de Solange para Comunidad MINED/FWP.",
+  "description": "Editor de video con IA de Solanch para Comunidad MINED/FWP.",
   "type": "module",
   "scripts": {
     "estudio": "remotion studio",

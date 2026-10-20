@@ -1,8 +1,8 @@
 # Instala tu editor de IA paso a paso
 
-**Solange | Comunidad MINED/FWP**
+**Solanch | Comunidad MINED/FWP**
 
-[Descargar el playbook en PDF](https://github.com/solanchtejosc-wq/editor-ia-solange/raw/refs/heads/main/docs/Playbook-Solange-Comunidad-MINED-FWP.pdf) · [Descargar todos los archivos del editor (ZIP)](https://github.com/solanchtejosc-wq/editor-ia-solange/archive/refs/heads/main.zip)
+[Descargar el playbook en PDF](https://github.com/solanchtejosc-wq/editor-ia-solange/raw/refs/heads/main/docs/Playbook-Solanch-Comunidad-MINED-FWP.pdf) · [Descargar todos los archivos del editor (ZIP)](https://github.com/solanchtejosc-wq/editor-ia-solange/archive/refs/heads/main.zip)
 
 Sigue los pasos en orden y marca cada uno al terminarlo. Solo instalas dos o tres programas tú; el resto lo instala la IA. No necesitas saber programar.
 
@@ -67,11 +67,11 @@ Después escribe `claude` e inicia sesión.
 
 - [ ] Paso 3 completado
 
-### 4. Descarga el editor de Solange
+### 4. Descarga el editor de Solanch
 
 *Tiempo orientativo: 2 min.*
 
-**1.** Abre [el repositorio de Solange en GitHub](https://github.com/solanchtejosc-wq/editor-ia-solange).
+**1.** Abre [el repositorio de Solanch en GitHub](https://github.com/solanchtejosc-wq/editor-ia-solange).
 
 **2.** Pulsa **Code** y luego **Download ZIP**. También puedes usar [la descarga directa del editor](https://github.com/solanchtejosc-wq/editor-ia-solange/archive/refs/heads/main.zip).
 
@@ -133,7 +133,7 @@ Pasos 7 a 10. La primera vez puede tardar más por la descarga del transcriptor.
 
 En Codex: `$marca`. Te pregunta tus colores, tu logo, tu llamado a la acción y tu estilo. Desde ahí, tus videos usan tu marca sin repetirlo.
 
-> **Nombre para esta edición:** Solange | Comunidad MINED/FWP. El kit queda listo para que cada participante configure su propia marca.
+> **Nombre para esta edición:** Solanch | Comunidad MINED/FWP. El kit queda listo para que cada participante configure su propia marca.
 
 - [ ] Paso 7 completado
 
@@ -230,4 +230,4 @@ Primero copia el mensaje de error y pégaselo a tu app de IA.
 - `scripts/` y `src/`: herramientas y código del editor.
 - [Referencia del editor](REFERENCIA-EDITOR.md) y [guía para la clase](../GUIA-DE-CLASE.md).
 
-Edición y publicación: **Solange | Comunidad MINED/FWP**. Funciona con Claude Code (Anthropic), Codex (OpenAI) y Remotion. Consulta [origen y componentes](../ORIGEN.md).
+Edición y publicación: **Solanch | Comunidad MINED/FWP**. Funciona con Claude Code (Anthropic), Codex (OpenAI) y Remotion. Consulta [origen y componentes](../ORIGEN.md).
