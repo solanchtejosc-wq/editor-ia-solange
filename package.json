@@ -1,0 +1,17 @@
+{
+  "name": "editor-local-solanch",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Edición local de video guiada por Claude Code o Codex | Solanch MINED/FWP",
+  "license": "MIT",
+  "engines": {"node": ">=22"},
+  "scripts": {
+    "diagnostico": "node scripts/editor.mjs diagnostico",
+    "prueba": "node scripts/editor.mjs prueba",
+    "preparar": "node scripts/editor.mjs preparar",
+    "render": "node scripts/editor.mjs render",
+    "silencios": "node scripts/editor.mjs silencios"
+  },
+  "dependencies": {"ffmpeg-static": "5.3.0"}
+}

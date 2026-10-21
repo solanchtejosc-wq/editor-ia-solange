@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+entradas/*
+!entradas/LEEME.md
+proyectos/*
+!proyectos/LEEME.md
+exportaciones/*
+!exportaciones/LEEME.md

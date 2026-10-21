@@ -1,27 +1,13 @@
-# Estudio creativo de Solanch | Comunidad MINED/FWP
+# Editor local de Solanch | Comunidad MINED/FWP
 
-[Abrir la experiencia](https://solanch-mined-fwp.netlify.app/) · [Entrar al estudio](https://solanch-mined-fwp.netlify.app/estudio/)
+[Guía paso a paso](https://solanch-mined-fwp.netlify.app/) · [Descargar kit ZIP](https://github.com/solanchtejosc-wq/editor-ia-solange/archive/refs/heads/kit-solanch.zip)
 
-Una ruta de ocho estaciones, un cuaderno de ejercicios y un estudio de video escrito para esta nueva versión. Los textos, la organización, los ejemplos y la implementación del estudio se prepararon de nuevo con asistencia de IA.
+**Comienza por [LEEME-PRIMERO.md](LEEME-PRIMERO.md).** Descarga, extrae y abre esta carpeta en Claude Code o Codex en tu computador. Pega la instrucción de instalación de la guía. No hay un editor ejecutándose dentro de la landing.
 
-## Qué ofrece
+Motor local independiente con Node.js y FFmpeg: conserva fragmentos de una toma, cambia formato, agrega título, marca y subtítulos de texto y exporta MP4 H.264/AAC. Las skills de proyecto guían al asistente durante instalación, edición y exportación. No hay transcripción ni selección de cortes automática con IA incluidas.
 
-- Avance de ocho estaciones guardado en el navegador.
-- Recorte de inicio y final de una toma, tres formatos, encuadre, título, marca y subtítulos manuales.
-- Exportación local mediante Canvas, Web Audio y MediaRecorder. El contenedor disponible puede ser WebM o MP4; requiere un navegador compatible.
-- Apoyo de IA mediante propuestas para copiar a la herramienta que cada participante elija. No hay generación con IA, transcripción automática ni llamadas a un modelo dentro del estudio.
-- Registro opcional con el formulario Netlify existente `comunidad-solanch`.
+Requisitos: Node.js LTS 22+, acceso a Claude Code o Codex con terminal local e internet para instalar. La descarga del kit es gratuita; el asistente puede requerir un plan propio. No se incluyen claves ni acceso a servicios de IA.
 
-## Archivos
+`npm ci` → `npm run diagnostico` → `npm run prueba`. Consulta [VERIFICACION.md](VERIFICACION.md) para la plataforma realmente comprobada. No se distribuyen binarios, dependencias instaladas ni videos personales en este repositorio.
 
-`landing/dist/` contiene el sitio y el estudio. `materiales/` contiene ejercicios nuevos. `docs/` contiene el cuaderno y la documentación de esta versión.
-
-## Ejecutar
-
-No requiere dependencias ni instalación. Desde `landing/dist`, inicia un servidor estático, por ejemplo `python3 -m http.server 4173`, y abre la dirección local mostrada. Netlify usa `netlify.toml`.
-
-## Alcance
-
-El estudio trabaja una toma y no une clips ni elimina fragmentos interiores. La exportación se realiza en tiempo real; mantén la pestaña visible y descarga antes de salir. No envía el video a un servidor.
-
-Esta versión reemplaza la adaptación inicial. Los commits anteriores y sus avisos de procedencia permanecen en el historial de Git, sin reescritura. La nueva entrega no incluye el editor anterior ni sus archivos. Esto no certifica la situación jurídica de publicaciones pasadas.
+Código de esta nueva entrega: licencia MIT, ver LICENSE. Componentes externos y sus licencias: [TERCEROS.md](TERCEROS.md).
