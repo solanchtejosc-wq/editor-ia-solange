@@ -1,7 +1,7 @@
 # Sobre esta entrega
 
-La versión actual del Estudio creativo de Solanch contiene una nueva ruta de ocho estaciones, ejemplos de práctica y un estudio escrito para funcionar directamente en el navegador. La preparación se realizó con asistencia de IA.
+La versión actual ofrece una guía de instalación escrita de nuevo y un kit de edición local implementado de forma independiente con Node.js y FFmpeg, con asistencia de IA. No incluye el editor ni las skills de la adaptación inicial. Los componentes externos conservan sus autorías y licencias, documentadas en [TERCEROS.md del kit](https://github.com/solanchtejosc-wq/editor-ia-solange/blob/kit-solanch/TERCEROS.md).
 
-No se distribuyen el editor, los guiones, las skills, los sonidos ni las fuentes de la entrega anterior en esta versión. Las revisiones anteriores conservan sus archivos y sus avisos de procedencia en el historial de Git: [referencia de la edición previa](https://github.com/solanchtejosc-wq/editor-ia-solange/blob/5ebcd4a7605c5cbb3bc8c458a57e4dc02fabb578/ORIGEN.md). El historial no se reescribió.
+Las revisiones anteriores conservan sus archivos y avisos de procedencia en el historial de Git: [referencia de la edición previa](https://github.com/solanchtejosc-wq/editor-ia-solange/blob/5ebcd4a7605c5cbb3bc8c458a57e4dc02fabb578/ORIGEN.md). El historial no se reescribió.
 
-Consulta `docs/IMPLEMENTACION.md` para las interfaces técnicas utilizadas y `README.md` para el alcance real del estudio.
+El sitio guía la instalación y no procesa videos. El kit, su alcance real y sus verificaciones están documentados en la rama kit-solanch.
