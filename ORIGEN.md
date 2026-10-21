@@ -1,11 +1,7 @@
-# Origen y componentes
+# Sobre esta entrega
 
-Edición, adaptación de identidad y publicación para **Solanch | Comunidad MINED/FWP**.
+La versión actual del Estudio creativo de Solanch contiene una nueva ruta de ocho estaciones, ejemplos de práctica y un estudio escrito para funcionar directamente en el navegador. La preparación se realizó con asistencia de IA.
 
-El código de base y los materiales del editor se copiaron del repositorio indicado en el playbook proporcionado por Solanch. Referencia de procedencia, sin enlace de navegación: repositorio `Editor-de-IA` de `alejo900327-code`, revisión `ca456f658c47920aba5f251f4141b40c045c47f5`. Esta publicación conserva la estructura técnica y adapta la identidad, los ejemplos y los enlaces de descarga.
+No se distribuyen el editor, los guiones, las skills, los sonidos ni las fuentes de la entrega anterior en esta versión. Las revisiones anteriores conservan sus archivos y sus avisos de procedencia en el historial de Git: [referencia de la edición previa](https://github.com/solanchtejosc-wq/editor-ia-solange/blob/5ebcd4a7605c5cbb3bc8c458a57e4dc02fabb578/ORIGEN.md). El historial no se reescribió.
 
-Los enlaces de acceso y descarga de esta edición utilizan [el repositorio de Solanch](https://github.com/solanchtejosc-wq/editor-ia-solange). La referencia anterior documenta únicamente la procedencia del material.
-
-La fuente Montserrat conserva su licencia en `public/fuentes/Montserrat-OFL.txt`. Las dependencias y recursos de terceros conservan sus condiciones: [Remotion](https://www.remotion.dev/license), [Whisper.cpp](https://github.com/ggerganov/whisper.cpp) y [Pexels](https://www.pexels.com/license/). La identidad de esta edición no cambia la autoría ni las licencias de esos componentes.
-
-Para verificar el uso de skills en Codex: [documentación oficial de OpenAI](https://learn.chatgpt.com/docs/build-skills).
+Consulta `docs/IMPLEMENTACION.md` para las interfaces técnicas utilizadas y `README.md` para el alcance real del estudio.
